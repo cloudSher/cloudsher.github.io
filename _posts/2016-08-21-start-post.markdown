@@ -2,11 +2,13 @@
 layout:		post
 title:		"开始博客之旅"
 subtitle:	"start post"
-date:		"2016-08-21 02:37"
+date:		2016-08-21 02:37
 author:		"sher"
 header-img:	"img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
-catalog		"true"
+catalog		true
+tags:
+	- 博客
 ---
 
 > 开通github pages 好久了，一直没有去使用，今天采用Hux的主题来重新开发我的博客之旅，我希望我每天都写一篇博客，来记录我每天的生活之旅。
