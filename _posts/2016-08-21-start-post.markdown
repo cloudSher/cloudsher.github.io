@@ -6,7 +6,7 @@ date:		2016-08-21 02:37
 author:		"sher"
 header-img:	"img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
-catalog		true
+catalog:	 true
 tags:
 	- 博客
 ---
