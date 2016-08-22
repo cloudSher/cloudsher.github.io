@@ -9,7 +9,6 @@ header-mask: 0.3
 catalog:	 true
 tags:
      - Java
-     - JavaScript
 ---
 
 > 开通github pages 好久了，一直没有去使用，今天采用Hux的主题来重新开发我的博客之旅，我希望我每天都写一篇博客，来记录我每天的生活之旅。
