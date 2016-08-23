@@ -7,8 +7,8 @@ author: "sher"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 catalog: true
 tags:
-	- Life
-	- think
+    - Life
+    - Think
 ---
 
 ### 代码的感概
