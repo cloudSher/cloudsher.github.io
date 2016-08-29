@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Java Methodology"
-subtitle: "java语言的方法论到底是什么"
-date：  2016-08-28 16:47
-author： "sher"
+subtitle: "Java 方法论理解"
+date:	2016-08-29 23:24
+author: "sher"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 catalog: true
 tags:
@@ -47,5 +47,3 @@ Java语言是一门面向对象的语言，Java方法论，也可以归结为面
    继承，可以从基类继承下来的子类，子类会具有基类属性和方法。也是一种重复利用的手段。多态，根据同一个接口，可以有多种实现，对外来讲，我们还是统一的接口。
 
   [参考知乎](https://www.zhihu.com/question/20275578)
-
-### 如何使用
